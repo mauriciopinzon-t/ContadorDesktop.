@@ -24,5 +24,20 @@ namespace ContadorDesktop
         {
             InitializeComponent();
         }
+
+        private void reiniciarbutton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void contarbutton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void salirbutton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
