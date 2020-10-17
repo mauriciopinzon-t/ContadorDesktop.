@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ContadorDesktop"
         mc:Ignorable="d"
-        Title="Contador" Height="220" Width="200">
+        Title="Contador" Height="250" Width="200">
     <StackPanel>
         <Border Margin="16" BorderBrush="LightGray" BorderThickness="2">
             <StackPanel>
